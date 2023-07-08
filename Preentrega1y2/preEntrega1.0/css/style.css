@@ -1,0 +1,63 @@
+/* selector {
+    propiedad: valor;
+}
+*/
+
+#cuerpo {
+    background-color: blue;
+}
+#enlaces {
+        background-color: green;
+}
+
+.titulos {
+    border: 5px solid red;
+    background-color: green;
+}
+
+.tituloSecundario {
+    border: 3px solid aqua;
+    background-color: violet;
+ }
+
+ #parrafos {
+    font-size: larger;
+    color: yellowgreen;
+ }
+
+ #foot {
+    background-color: beige;
+ }
+ 
+ #especiesTitulo {
+    color: magenta;
+ }
+
+ img {
+    width: 500px;
+    height: auto;
+ }
+
+ header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    margin-right: 50px; /* Ajusta el margen derecho para separar el logo del menú */
+  }
+
+  #enlaces {
+    list-style: 10px;
+    display: 10px;
+  }
+  
+  #enlaces li {
+    margin-left: 50px; /* Ajusta el espaciado entre los enlaces */
+  }
+  
+  #enlaces a {
+    text-decoration: 10px;
+    color: #14e6b8;
+  }  
